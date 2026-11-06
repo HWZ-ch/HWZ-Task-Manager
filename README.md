@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   <img src="assets/favicon.svg" width="72" height="72" alt="HWZ Task Manager logo">
 
@@ -8,7 +8,7 @@
 
   无需注册，无需后端。打开浏览器，即可开始整理今天。
 
-  [在线体验](https://hwz-ch.github.io/HWZ-Task-Manager/) · [功能](#功能) · [快速开始](#快速开始) · [快捷键](#快捷键)
+  [GitHub 仓库](https://github.com/HWZ-ch/HWZ-Task-Manager) · [功能](#功能) · [快速开始](#快速开始) · [快捷键](#快捷键)
 
 </div>
 
@@ -127,7 +127,7 @@ HWZ-Task-Manager/
 3. 在 **Build and deployment** 中选择 **Deploy from a branch**。
 4. 选择 `main` 分支与 `/ (root)` 目录，保存即可。
 
-线上地址：[https://hwz-ch.github.io/HWZ-Task-Manager/](https://hwz-ch.github.io/HWZ-Task-Manager/)
+部署完成后访问：`https://hwz-ch.github.io/HWZ-Task-Manager/`
 
 ## 说明
 
