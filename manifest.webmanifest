@@ -1,0 +1,19 @@
+﻿{
+  "name": "HWZ Task Manager",
+  "short_name": "HWZ Tasks",
+  "description": "简洁、清晰、专注于当下的现代任务管理器。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f1ea",
+  "theme_color": "#172019",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

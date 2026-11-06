@@ -1,0 +1,14 @@
+﻿# Local screenshots and scratch files
+preview-*.png
+preview-*.jpg
+*.log
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local environment
+.env
+.env.*
